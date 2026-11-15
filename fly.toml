@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for rvg-4zzkyg on 2026-11-13T19:07:36Z
+# fly.toml app configuration file generated for rvg-opfx3q on 2026-11-15T07:15:41Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'rvg-4zzkyg'
-primary_region = 'ams'
+app = 'rvg-opfx3q'
+primary_region = 'yyz'
 
 [build]
 [env]
