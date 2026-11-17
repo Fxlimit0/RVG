@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for rvg--ghwjw on 2026-11-17T14:06:01Z
+# fly.toml app configuration file generated for bigbosstt on 2026-11-17T14:34:50Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'rvg--ghwjw'
-primary_region = 'sin'
+app = 'bigbosstt'
+primary_region = 'nrt'
 
 [build]
 [env]
