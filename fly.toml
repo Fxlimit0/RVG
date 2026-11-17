@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for rvg-hdar3w on 2026-11-17T16:36:59Z
+# fly.toml app configuration file generated for zakhar on 2026-11-17T17:45:55Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'rvg-hdar3w'
-primary_region = 'lhr'
+app = 'zakhar'
+primary_region = 'dfw'
 
 [build]
 [env]
