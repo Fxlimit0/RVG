@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for rvg-5wpfna on 2026-11-17T13:57:02Z
+# fly.toml app configuration file generated for rvg--ghwjw on 2026-11-17T14:06:01Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'rvg-5wpfna'
-primary_region = 'sjc'
+app = 'rvg--ghwjw'
+primary_region = 'sin'
 
 [build]
 [env]
